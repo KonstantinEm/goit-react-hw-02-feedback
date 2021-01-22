@@ -1,0 +1,48 @@
+.status {
+  display: flex;
+  justify-content: center;
+}
+.good {
+  font-weight: 400;
+  font-size: 25px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(6, 82, 6);
+  width: 100px;
+  border-radius: 25px;
+}
+
+.neutral {
+  font-weight: 400;
+  font-size: 25px;
+  margin: 0 10px 0 10px;
+  color: rgb(247, 247, 247);
+  background-color: rgb(209, 128, 34);
+  width: 120px;
+  border-radius: 25px;
+}
+
+.bad {
+  font-weight: 400;
+  font-size: 25px;
+  color: rgb(250, 250, 250);
+  background-color: rgba(156, 31, 31, 0.911);
+  width: 100px;
+  border-radius: 25px;
+}
+
+.items {
+  font-weight: 800;
+  font-size: 35px;
+  color: #3c403d;
+  margin: 20px 0;
+}
+
+.positive {
+  font-weight: 400;
+  font-size: 25px;
+  margin: 20px auto;
+  color: rgb(252, 252, 252);
+  background-color: #a3bcb6;
+  width: 300px;
+  border-radius: 25px;
+}
